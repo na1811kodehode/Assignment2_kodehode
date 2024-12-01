@@ -4,4 +4,4 @@ This project involved recreating a provided design using HTML and CSS. The prima
 
 ## Preview
 
-![Alt text](screenshot "Optional title")
+![](screenshot.png)
